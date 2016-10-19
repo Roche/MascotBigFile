@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MascotBigFile.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="mascotDataFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">e:\inetpub\mascot\data</Value>
+    </Setting>
+    <Setting Name="mascotCgiFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">e:\inetpub\mascot\cgi</Value>
+    </Setting>
+    <Setting Name="mascotBookmark1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Content-Disposition: form-data; name="FILE"; filename="</Value>
+    </Setting>
+    <Setting Name="mascotBookmark2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Content-Type: application/octet-stream</Value>
+    </Setting>
+    <Setting Name="mascotSearchLog" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://computer_name/mascot/x-cgi/ms-review.exe</Value>
+    </Setting>
+    <Setting Name="searchPamameterFileInfo" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">The selected Mascot search parameters file has a suspecious file size: it must be a small file size (a few KB but neither in MB nor GB). Please select the appropriated one again.</Value>
+    </Setting>
+    <Setting Name="searchParametersFileSizeInBytesMax" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">10000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
